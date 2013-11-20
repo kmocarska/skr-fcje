@@ -1,7 +1,8 @@
 1
 ```bash
 #Karolina Mocarska
-#Napisz funkcję posiadającą 2 argumenty będące przekątnymi deltoidu ("latawiec") i obliczające pole ze wzoru P=ef/2. Przetestuj działanie tej funkcji.
+#Napisz funkcję posiadającą 2 argumenty będące przekątnymi deltoidu ("latawiec") i
+obliczające pole ze wzoru P=ef/2. Przetestuj działanie tej funkcji.
 
 pole()
 {
@@ -44,7 +45,8 @@ f $xx
 
 ```bash
 #Karolina Mocarska
-#Napisz funkcję obliczającą a do n, a - liczba całkowita, n - liczba naturalna (z zerem). Funkcja ma posiadać dwa argumenty a i n. Przetestuj działanie tej funkcji.
+#Napisz funkcję obliczającą a do n, a - liczba całkowita, n - liczba naturalna (z zerem). 
+Funkcja ma posiadać dwa argumenty a i n. Przetestuj działanie tej funkcji.
 
 f()
 {
@@ -83,7 +85,8 @@ f $a $n;
 
 ```bash
 #Karolina Mocarska
-#Napisz rekurencyjną definicję funkcji obliczającą silnię ze swojego argumentu. (n!=1*2*3*...*n) Przetestuj działanie tej funkcji.
+#Napisz rekurencyjną definicję funkcji obliczającą silnię ze swojego argumentu. (n!=1*2*3*...*n)
+Przetestuj działanie tej funkcji.
 
 silnia()
 {
@@ -116,7 +119,8 @@ exit 0;
 
 ```bash
 #Karolina Mocarska
-#Napisz skrypt wczytujący 5 imion (użyj tablic), sortujący imiona w kolejności alfabetycznej (tak jak w książce telefonicznej) i wypisujący posortowane imiona na ekranie.
+#Napisz skrypt wczytujący 5 imion (użyj tablic), sortujący imiona w kolejności alfabetycznej 
+(tak jak w książce telefonicznej) i wypisujący posortowane imiona na ekranie.
 
 echo "Podaj Imie nr. 1: ";
 read name[1];
